@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDqMwHI2y6p8cMJov8UlfWu77QSp+OJi1q9nePvg3Fj2O47LS8xbq5VrBpFVV7ZasBlc1aWZLQx3vVqzVAX9bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duval\\source\\repos\\Mediatek86\\Mediatek86\\Mediatek86.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duval\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\duval\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\duval\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\duval\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
