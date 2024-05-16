@@ -1,0 +1,50 @@
+Documentation technique 
+
+
+Sommaire 
+
+I. Introduction
+
+II.  Présentation du projet
+
+III. Environnement de développement
+
+
+I. Introduction :
+
+InfoTech Services 86 (ITS 86), est une Entreprise de Services Numériques (ESN) spécialisée dans le développement informatique (applications de bureau, web, mobile), l’hébergement de site web, l’infogérance, la gestion de parc informatique et l’ingénierie système et réseau. Elle répond régulièrement à des appels d’offres en tant que société d’infogérance et prestataire de services informatiques.
+
+II.  	Vue global du projet
+
+L'application présente de nombreuse fonctionnalités. L'application ne comporte qu'une seule fenêtre divisée en plusieurs onglets. 
+
+
+Onglet 1: livre
+Cet onglet présente la liste des livres, triée par défaut sur le titre.
+La liste comporte les informations suivantes : titre, auteur, collection, genre, public, rayon.
+Dans cette onglet on peut retrouver un bouton de recherche, il est possible de rechercher un ou plusieurs livres par le titre ou son numero. Il est possible de trier, le fait de cliquer sur le titre d'une des colonnes de la liste des livres, permet de trier la liste par rapport à la colonne choisie. En suite il y a l'affichage détailler, la partie basse de la fenêtre affiche les informations détaillées du livre sélectionné (numéro de document, code ISBN, titre, auteur(e), collection, genre, public, rayon, chemin de l'image) ainsi que l'image.
+
+Onglet 2: DVD
+
+Cet onglet présente la liste des DVD, triée par titre.
+La liste comporte les informations suivantes : titre, durée, réalisateur, genre, public, rayon.
+Le fonctionnement est identique à l'onglet des livres.
+La seule différence réside dans certaines informations détaillées, spécifiques aux DVD : durée (à la place de ISBN), réalisateur (à la place de l'auteur), synopsis (à la place de collection).
+
+Onglet 3 : Revues
+Cet onglet présente la liste des revues, triées par titre.
+La liste comporte les informations suivantes : titre, périodicité, délai mise à dispo, genre, public, rayon.
+Le fonctionnement est identique à l'onglet des livres.
+La seule différence réside dans certaines informations détaillées, spécifiques aux revues : périodicité (à la place de l'auteur), délai mise à dispo (à la place de collection).
+
+Onglet 4 : Parutions des revues
+Cet onglet permet d'enregistrer la réception de nouvelles parutions d'une revue.
+Il se décompose en 2 parties (groupbox).
+
+Onglet 4 : Gestion de commande
+
+Cette onglet va permettre de gere les commande. Il est possible de retrouvé une commande graççe au numéro d'un livre. Il affcihe les infromations du livre mais sont étape de commandes, dans ce même onglet il est possbile de créer une commande. En selectionnant le livre ainsi que le nombre d'exemplaire et le montant.
+
+III. Environnement de développement
+
+Visual Studio est un environnement de développement intégré (IDE) créé par Microsoft. Il offre un large éventail d'outils et de fonctionnalités pour les développeurs de logiciels, qu'ils travaillent sur des projets individuels ou en équipe. 
